@@ -1,3 +1,5 @@
+have python and pygame installed( pip install pygame)
+
 To host:
   run client.py
   enter your ipv4 address
